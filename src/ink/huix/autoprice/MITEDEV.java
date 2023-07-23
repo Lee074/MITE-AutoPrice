@@ -39,7 +39,7 @@ public class MITEDEV extends AbstractMod {
 
     @Override
     public String modVerStr() {
-        return "0.1.0-BETA";
+        return "0.1.1-BETA";
     }
 }
 
